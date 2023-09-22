@@ -29,5 +29,3 @@ To run the simulation and explore the EKF implementation, follow these steps:
 Clone this repository to your local machine.
 Install all the necessary libraries.
 Feel free to contribute to this project by submitting pull requests or opening issues if you encounter any problems or have suggestions for improvement.
-
-Thank you for exploring this robot localization and landmark estimation project!
